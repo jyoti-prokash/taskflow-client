@@ -1,0 +1,68 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Website Redesign",
+      "description": "Redesign the company website",
+      "deadline": "2025-08-30",
+      "status": "in-progress",
+      "tasks": []
+    },
+    {
+      "id": 2,
+      "name": "Mobile App Development",
+      "description": "Create a cross-platform mobile app",
+      "deadline": "2025-09-15",
+      "status": "not-started",
+      "tasks": []
+    },
+    {
+      "id": 3,
+      "name": "Marketing Campaign",
+      "description": "Launch a digital marketing campaign for Q4",
+      "deadline": "2025-10-01",
+      "status": "in-progress",
+      "tasks": []
+    },
+    {
+      "id": 4,
+      "name": "E-commerce Platform",
+      "description": "Develop a full-stack e-commerce solution",
+      "deadline": "2025-11-10",
+      "status": "not-started",
+      "tasks": []
+    },
+    {
+      "id": 5,
+      "name": "Data Migration",
+      "description": "Migrate legacy system data to the new cloud database",
+      "deadline": "2025-09-05",
+      "status": "in-progress",
+      "tasks": []
+    },
+    {
+      "id": 6,
+      "name": "UI/UX Audit",
+      "description": "Evaluate and improve the user experience of the dashboard",
+      "deadline": "2025-08-20",
+      "status": "completed",
+      "tasks": []
+    },
+    {
+      "id": 7,
+      "name": "HR Portal Integration",
+      "description": "Integrate new features into the HR portal",
+      "deadline": "2025-09-25",
+      "status": "in-progress",
+      "tasks": []
+    },
+    {
+      "id": 8,
+      "name": "Customer Feedback System",
+      "description": "Build a feedback and review system for users",
+      "deadline": "2025-08-15",
+      "status": "not-started",
+      "tasks": []
+    }
+  ]
+}
